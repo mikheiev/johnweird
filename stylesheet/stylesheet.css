@@ -1,0 +1,32 @@
+#menu {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    background-color: #f7eeee;
+    background-size: 100%;
+    border-radius: 5px;
+    opacity: 0.6;
+}
+
+#menu ul {
+    height: auto;
+    padding: 9px 0px;
+    margin: 0px;
+}
+
+#menu li { 
+    display: inline; 
+    padding: 112.5px; 
+}
+
+#menu a {
+    text-decoration: none;
+    color: #2e5352;
+    padding: 8px 8px 8px 8px;
+}
+
+#menu a:hover {
+    color: #ffffff;
+    background-color: #9ca2a3;
+}
