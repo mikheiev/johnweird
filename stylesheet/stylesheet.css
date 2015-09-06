@@ -24,6 +24,12 @@
     padding: 112.5px; 
 }
 
+#social-icons {
+    position: fixed;
+    left: 435px;
+    top: 40px;
+}
+
 #menu a {
     text-decoration: none;
     color: #0a0b0c;
