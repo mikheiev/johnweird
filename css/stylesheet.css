@@ -1,0 +1,41 @@
+body {
+     margin: 0;
+     background-color: #0a0b0c;
+     background-image: url(/images/logobackground.jpg);
+     background-position: center top;
+     background-repeat: no-repeat;
+     background-size: 50%;
+}
+
+.menu {
+    height: 50px;
+    background-color: #ffffff;
+}
+
+
+.menu ul {
+    -webkit-padding-start: inherit;
+    display: -webkit-inline-box;
+}
+
+.menu li { 
+    display: inline; 
+}
+
+.social-icons table {
+    margin: 0 auto;
+}
+
+.menu a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+    color: #0a0b0c;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.menu a:hover {
+    color: #ffffff;
+    background-color: black;
+}
