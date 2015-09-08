@@ -20,6 +20,7 @@ body {
 
 .menu li { 
     display: inline; 
+    margin: 0 36px;
 }
 
 .social-icons table {
